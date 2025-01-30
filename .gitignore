@@ -1,0 +1,26 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+package-lock.json
+*.db*
+build/
+dist/
+out/
+test/**/*.js
+*.js.map
+
+.bak/
+coverage
+
+.DS_Store
+
+# Python things for mkdocs
+.venv/
+.idea
+bak
+*.egg-info
+__pycache__/
+*.pyc
+dist/
