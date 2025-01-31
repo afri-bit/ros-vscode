@@ -9,3 +9,11 @@ vsc-extension-quickstart.md
 **/*.map
 **/*.ts
 **/.vscode-test.*
+node_modules/*/*.md
+out/**/*.d.ts
+out/**/*.js.map
+out/*.d.ts
+out/*.js.map
+jest.config.js
+test/**
+.bak/**
